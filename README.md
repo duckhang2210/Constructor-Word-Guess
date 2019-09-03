@@ -20,11 +20,15 @@ Game Information: This is a node.js based application with interactive prompts o
 #### Demo
 
 **Start**
+
 ![command line](/image/start.PNG)
 
 **Lose and Play again**
+
 ![command line](/image/lost.PNG)
 
 **Win and Exit game**
+
 ![command line](/image/win.PNG)
+
 ![command line](/image/exit.PNG)
